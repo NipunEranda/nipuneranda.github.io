@@ -361,12 +361,24 @@ onBeforeUnmount(() => {
   .hero-content {
     grid-template-columns: 1fr;
     padding: 110px 28px 60px;
+    gap: 36px;
   }
-  .hero-visual { display: none; }
+  .hero-visual {
+    order: -1;
+    justify-content: center;
+  }
+  .avatar-wrap {
+    width: 200px;
+    height: 200px;
+  }
 }
 @media (max-width: 560px) {
   .hero-badge { font-size: 11px; }
   .hero-socials { gap: 14px; }
   .soc-link { font-size: 12px; }
+  .avatar-wrap {
+    width: 160px;
+    height: 160px;
+  }
 }
 </style>
