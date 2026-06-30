@@ -46,7 +46,7 @@
       <!-- Typefi -->
       <div class="exp-company reveal">
         <div class="co-header">
-          <div class="co-icon">TF</div>
+          <div class="co-icon">T</div>
           <div>
             <div class="co-name">Typefi Systems</div>
             <div class="co-period">January 2022 – Present · Colombo, Sri Lanka</div>
