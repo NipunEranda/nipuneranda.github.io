@@ -4,7 +4,7 @@
     <div class="sec-title reveal">Who I <span>am</span></div>
     <div class="about-grid">
       <div class="about-text reveal">
-        <p>I'm a Senior Software Engineer at Typefi Systems, where I've spent 3+ years building and maintaining a suite of proprietary enterprise tools. Prior to that, I worked at Victory Information, where I was a founding member and team lead of the BIA team.</p>
+        <p>I'm a Senior Software Engineer at Typefi Systems, where I've spent 3+ years building and maintaining a suite of proprietary enterprise tools, also the founding member and team lead of the BIA team. Prior to that, I worked at Victory Information where i've gained valuable experience in desktop & web development.</p>
         <p>I thrive in environments that challenge me to wear multiple hats — from architecting backend services in Rust and Java, to crafting polished UIs with Vue and React, to shipping cross-platform desktop apps with Electron and Tauri.</p>
         <p>Outside of work, I'm constantly exploring: whether it's IoT systems, containerization automation, or building my own tools to solve real problems. I believe the best engineers are the ones who never stop building.</p>
       </div>
