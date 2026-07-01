@@ -130,6 +130,7 @@ onBeforeUnmount(() => {
         <div class="hero-ctas">
           <a href="#contact" class="btn-primary">Get in touch →</a>
           <a href="#projects" class="btn-outline">View projects</a>
+          <a href="https://drive.google.com/file/d/1QXJiarU7eYKmiYMPWPjVwUF1qBfxdxzW/view?usp=sharing" target="_blank" class="btn-outline">CV</a>
         </div>
         <div class="hero-socials">
           <a href="mailto:namarasekara71@gmail.com" class="soc-link">
