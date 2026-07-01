@@ -13,32 +13,13 @@
               AvoryX Labs
               <a href="https://avoryxlabs.com" target="_blank" rel="noopener" class="co-ext-link">avoryxlabs.com ↗</a>
             </div>
-            <div class="co-period">Founder &amp; Chief Executive Officer · Sri Lanka</div>
+            <div class="co-period">Sri Lanka</div>
           </div>
         </div>
-        <div class="ax-overview">
-          <p class="ax-desc">
-            AvoryX Labs is a purpose-built software company engineering digital solutions for the
-            <strong>Education</strong>, <strong>Retail</strong>, and <strong>Government</strong> sectors.
-            As founder and CEO, I lead product strategy, engineering direction, and client delivery across all verticals.
-          </p>
-          <div class="ax-products">
-            <div class="ax-product">
-              <div class="ax-product-name">🦅 Eagle HRM</div>
-              <div class="ax-product-desc">Flagship HR management platform — streamlining workforce operations for organizations across Sri Lanka.</div>
-            </div>
-            <div class="ax-product">
-              <div class="ax-product-name">🎓 EdTech Solutions</div>
-              <div class="ax-product-desc">Purpose-built digital tools for educational institutions — from administration to student engagement.</div>
-            </div>
-            <div class="ax-product">
-              <div class="ax-product-name">🛒 Retail Commerce</div>
-              <div class="ax-product-desc">End-to-end retail management platforms tailored for local and regional commerce operations.</div>
-            </div>
-            <div class="ax-product">
-              <div class="ax-product-name">🏛️ Government Digital</div>
-              <div class="ax-product-desc">Digital transformation solutions for government agencies — modernising public sector services.</div>
-            </div>
+        <div class="roles">
+          <div class="role reveal d1">
+            <div class="role-title">Founder &amp; Chief Executive Officer</div>
+            <div class="role-yr">2026 – Present</div>
           </div>
         </div>
       </div>
@@ -95,6 +76,14 @@
       <div class="typefi-grid">
         <div class="typefi-item reveal d1">
           <div class="td"></div>
+          <div><div class="ti-name">Edifix</div><div class="ti-desc">The online bibliographic reference solution for publishers, service providers, editors, and authors</div></div>
+        </div>
+        <div class="typefi-item reveal d1">
+          <div class="td"></div>
+          <div><div class="ti-name">Meridian</div><div class="ti-desc">Reference processing service that integrations edifix for citation processing.</div></div>
+        </div>
+        <div class="typefi-item reveal d1">
+          <div class="td"></div>
           <div><div class="ti-name">Orion Docs</div><div class="ti-desc">Documentation platform maintaining all documents related to Orion and Typefi products.</div></div>
         </div>
         <div class="typefi-item reveal d2">
@@ -108,6 +97,10 @@
         <div class="typefi-item reveal d4">
           <div class="td"></div>
           <div><div class="ti-name">ScriptVault</div><div class="ti-desc">Web application to manage InDesign scripts across all GitHub Typefi organisations.</div></div>
+        </div>
+        <div class="typefi-item reveal d4">
+          <div class="td"></div>
+          <div><div class="ti-name">TPS Script</div><div class="ti-desc">Proprietary script builder for building custom InDesign scripts and publish them to script vault.</div></div>
         </div>
         <div class="typefi-item reveal d1">
           <div class="td"></div>
@@ -132,6 +125,10 @@
         <div class="typefi-item reveal d2">
           <div class="td"></div>
           <div><div class="ti-name">Process</div><div class="ti-desc">Proprietary task-management system handling various internal engineering processes.</div></div>
+        </div>
+        <div class="typefi-item reveal d2">
+          <div class="td"></div>
+          <div><div class="ti-name">ITIssues</div><div class="ti-desc">Proprietary support task management system handling OPS requests.</div></div>
         </div>
       </div>
     </div>
@@ -190,45 +187,6 @@
 }
 .co-ext-link:hover { background: rgba(2,187,178,0.1); }
 .co-period { font-size: 13px; color: var(--muted); }
-
-/* AvoryX overview */
-.ax-overview {
-  background: rgba(2,187,178,0.06);
-  border: 1px solid rgba(2,187,178,0.18);
-  border-radius: 14px;
-  padding: 24px 28px;
-  margin-bottom: 20px;
-}
-.ax-desc {
-  font-size: 14px;
-  line-height: 1.75;
-  color: #7aadcc;
-  margin-bottom: 20px;
-}
-.ax-desc strong { color: #a8d8e8; }
-.ax-products {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 14px;
-}
-.ax-product {
-  background: rgba(10,28,50,0.5);
-  border: 1px solid rgba(2,187,178,0.15);
-  border-radius: 10px;
-  padding: 16px 18px;
-}
-.ax-product-name {
-  font-family: 'Space Grotesk', sans-serif;
-  font-size: 13px;
-  font-weight: 600;
-  color: #02bbb2;
-  margin-bottom: 4px;
-}
-.ax-product-desc {
-  font-size: 12px;
-  color: var(--muted);
-  line-height: 1.6;
-}
 
 /* Roles */
 .roles {
@@ -307,7 +265,6 @@
 .ti-desc { font-size: 12px; color: var(--muted); line-height: 1.6; }
 
 @media (max-width: 900px) {
-  .ax-products { grid-template-columns: 1fr; }
   .typefi-grid { grid-template-columns: 1fr; }
 }
 </style>

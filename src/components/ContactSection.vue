@@ -22,7 +22,7 @@
           +94 711 294 033
         </a>
       </div>
-      <div class="footer-note reveal">Thirimadura Nipun Eranda Amarasekara · Ambalangoda, Sri Lanka · © 2025</div>
+      <div class="footer-note reveal">Nipun Eranda Amarasekara · Ambalangoda, Sri Lanka · © 2025</div>
     </div>
   </section>
 </template>
